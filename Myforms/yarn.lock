@@ -2826,6 +2826,11 @@ next-themes@^0.2.1:
   resolved "https://registry.npmjs.org/next-themes/-/next-themes-0.2.1.tgz"
   integrity sha512-B+AKNfYNIzh0vqQQKqQItTS8evEouKD7H5Hj3kmuPERwddR2TxvDSFZuTj6T7Jfn1oyeUyJMydPl1Bkxkh0W7A==
 
+next.js@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.npmjs.org/next.js/-/next.js-1.0.3.tgz"
+  integrity sha512-nosnT7Jh4ML3kzwG9MPW+SfBKuHoZEMcCWw5kxwMYXoxnADGzIxWl+TdDMcEZP6Xl/t8m/5uyVlA9SBkH2oh/w==
+
 next@*, "next@>= 6.0.0", next@>=10, next@13.5.1:
   version "13.5.1"
   resolved "https://registry.npmjs.org/next/-/next-13.5.1.tgz"

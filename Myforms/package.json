@@ -53,6 +53,7 @@
     "eslint-config-next": "13.4.19",
     "next": "13.5.1",
     "next-themes": "^0.2.1",
+    "next.js": "^1.0.3",
     "nextjs-toploader": "^1.4.2",
     "postcss": "8.4.29",
     "prettier": "^3.0.3",
